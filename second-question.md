@@ -1,1 +1,2 @@
-This is the answer to "How can I do X?".
+如果出现下面图片的崩溃问题，请点击“让开发者帮忙”，将崩溃日志通过邮箱发送给开发者：![](/assets/TIM图片20181020130507.jpg)
+

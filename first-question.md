@@ -1,1 +1,6 @@
-This is the answer to "What is XYZ?".
+**华为P20：**设置-应用和通知-默认应用设置-桌面
+
+
+
+友情提示：vivo和oppo大部分机型都是锁定默认桌面的，对此我们无能为力。
+
