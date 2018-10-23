@@ -9,4 +9,5 @@
 * [桌面锁问题](zhuo-mian-suo-wen-ti.md)
 * [设定壁纸](zi-ding-yi-she-zhi-bi-zhi.md)
 * [主题相关](zhu-ti-xiang-guan.md)
+* [应用分身问题](appfen-shen.md)
 
