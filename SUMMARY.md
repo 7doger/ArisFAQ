@@ -10,4 +10,5 @@
 * [设定壁纸](zi-ding-yi-she-zhi-bi-zhi.md)
 * [主题相关](zhu-ti-xiang-guan.md)
 * [应用分身问题](appfen-shen.md)
+* [小地图不显示](xiao-di-tu-bu-xian-shi.md)
 
